@@ -1,6 +1,6 @@
 # kubernetes-cluster-openstack
 Firstly, create four Ubuntu16.04 instances on Openstack using just one key pair.
-Actually,I just need 3 machine for this cluster, but I create a instance with wrong version os. So, this machine is just
+Actually,I just need 3 machines for this cluster, but I create a instance with wrong version os. So, this machine is just
 a springboard bound to a floating IP
 ## Node configuration
 #
