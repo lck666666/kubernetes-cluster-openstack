@@ -6,7 +6,7 @@ a springboard bound to a floating IP
 #
 Host name|IP|Role|OS|CPU/Memory|
 :--:|:--:|:--:|:--:|:--:|
-k8s-master-01|10.0.0.36|Master| Ubuntu Server X86_6416.04 LTS|2VCPU 4G
+k8s-master-01|10.0.0.36|Master| Ubuntu Server X86_64 16.04 LTS|2VCPU 4G
 k8s-node-01|10.0.0.6|Slave| Ubuntu Server X86_64 16.04 LTS|2VCPU 4G
 k8s-node-02|10.0.0.62|Slave| Ubuntu Server X86_64 16.04 LTS|2VCPU 4G
 ## Ubuntu configuration
