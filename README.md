@@ -14,7 +14,7 @@ k8s-node-02|10.0.0.62|Slave| Ubuntu Server X86_64 16.04 LTS|2VCPU 4G
 Generate the key pair, put the private key in```~/.ssh/id_rsa```, and the public key in ```~/.ssh/id_rsa.pub```
 One machine is bound to a floating IP，while other machines can use the proxy as a springboard.
 #
-![avatar](/Users/liuchangkundeimac/Desktop/上海交大/科研经历/k8s-openstack/ip.png)
+![avatar](https://github.com/lck666666/kubernetes-cluster-openstack/blob/master/ip.png)
 Then,revise
 
 ```vim ~/.ssh/config```
