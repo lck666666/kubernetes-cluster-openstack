@@ -85,7 +85,7 @@ sudo apt-get -y update
 I recommend install docker-ce 18.xx, we can just view the alternative version
 ```
 apt-cache show docker-ce | grep -i version
-sudo apt-get -y install docker-ce = ${version}
+sudo apt-get -y install docker-ce=${version}
 # open Docker Service
 systemctl enable docker.service
 ```
